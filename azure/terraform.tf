@@ -18,10 +18,10 @@ terraform {
   }
 
   cloud {
-    organization = "bmcclain"
+    organization = "your-organization-name"
 
     workspaces {
-      name = "learn-terraform-stacks-migrate-robin-azure"
+      name = "learn-terraform-stacks-migrate"
     }
   }
 
